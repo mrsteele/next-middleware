@@ -1,0 +1,38 @@
+{
+  "name": "next-middleware",
+  "version": "0.0.1",
+  "description": "Create middleware for your next app",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "dev": "next"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mrsteele/next-middleware.git"
+  },
+  "author": "Matt Steele <matt@omnionline.us> (http://omnionline.us/)",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/mrsteele/next-middleware/issues"
+  },
+  "files": [
+    "LICENSE",
+    "README.md",
+    "index.js"
+  ],
+  "homepage": "https://github.com/mrsteele/next-middleware#readme",
+  "keywords": [
+    "next",
+    "nextjs",
+    "middleware",
+    "plugin",
+    "extension"
+  ],
+  "devDependencies": {
+    "next": "^4.2.1",
+    "react": "^16.2.0",
+    "react-dom": "^16.2.0",
+    "standard": "^10.0.3"
+  }
+}
